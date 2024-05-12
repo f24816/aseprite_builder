@@ -33,8 +33,6 @@ That is why we recommend you to modify the **os** line to only build for the OS 
 |Operating System|Minutes|Minute multiplier
 |---|---|---|
 |Windows|20|2|
-|Ubuntu|10|1|
-|macOS|8|10|
 
 # References to other Aseprite builders
 - https://github.com/haxpor/aseprite-macos-buildsh => Script which lets you build automatically on macOS
